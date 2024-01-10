@@ -1,16 +1,15 @@
-# expenseui
 
-A new Flutter project.
+<img width="412" alt="image" src="https://github.com/kaliraotaran/expenseui/assets/81376236/9f13d535-1909-4ef5-8e2e-5d955d075e15">
 
-## Getting Started
+<img width="412" alt="image" src="https://github.com/kaliraotaran/expenseui/assets/81376236/949cba61-ee8f-4b6a-9eb1-352a6cca60b9">
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+<img width="412" alt="image" src="https://github.com/kaliraotaran/expenseui/assets/81376236/bb115451-e283-4c1f-8e1a-fc263d37f098">
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
+
+
+https://github.com/kaliraotaran/expenseui/assets/81376236/e576150e-ce81-46e9-99aa-a555eac06973
+
